@@ -1,8 +1,5 @@
 # Mirava
 
-> [!info] Note to the repo
-
-
 
 >  Mirava is a curated list of Iranian package mirrors, providing reliable and fast access to essential software resources within Iran. 
 <div align="left">
